@@ -1,0 +1,5 @@
+Soon this will contain the templates for OABS, i hope that i will only need 3 templates. A 'main' template, holding the title and nav bar, a 'table' template, holding a 1 table and a 'ticket' template which will hold one ticket.
+
+The goal of the templates is that they should be editable in a normal webpage editor.
+
+This directory has no purpose at the moment and you can safely delete it.

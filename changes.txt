@@ -1,0 +1,40 @@
+Changes file started 25 April 2K3 (just before V1.5 release)
+
+v1.7 FINAL(last release of this code version): -
+Updated entire code to support new versions of php
+Name is no linger hard coded at all
+* Removed Notices *
+Updated Advertising section
+Edited OABSDoc.doc (still obsolete)
+Updated install script for new features
+Created an upgrade script
+
+v1.65exp (unreleased, but was seen in demo section): -
+Added random advertising section
+Incorporated Logout script
+Incorporated Install script
+Added 2 new variables to connections/database.php which allows for a Airline name and advert table name
+Edited admin page to reflect changes
+Formed sample template for tickets, may change in the addon
+Edited OABSDoc.doc
+
+v1.5: - 
+
+Added 4 variables to the connections/database.php file allowing different table names. With this more than one OABS can run off of one database
+
+Rearranged said file to make it easier
+
+corrected class error that meant that the class a user chose would not be stored
+
+PLANNING TO ADD NEXT...
+- Code rewrite
+- Customer IP logging
+- Better customer table usage (addon)
+
+Later on..
+- Intergrate everything admin based into admin page
+- Sessions
+
+Distant future..
+- The 3 Templates
+- Write my own (smaller) table viewer for flights and customers.
